@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bp-tracker-v1';
+const CACHE_NAME = 'bp-tracker-v4';
 
 const FILES_TO_CACHE = [
   './',
